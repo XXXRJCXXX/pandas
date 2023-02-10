@@ -126,3 +126,5 @@ doc/source/savefig/
 # Interactive terminal generated files #
 ########################################
 .jupyterlite.doit.db
+classes.svg
+pandas/packages.svg
